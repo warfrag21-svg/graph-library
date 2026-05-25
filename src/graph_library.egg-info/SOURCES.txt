@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/graph_library.egg-info/PKG-INFO
+src/graph_library.egg-info/SOURCES.txt
+src/graph_library.egg-info/dependency_links.txt
+src/graph_library.egg-info/top_level.txt
