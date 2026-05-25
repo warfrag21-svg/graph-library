@@ -10,7 +10,6 @@ from src.algorithms.pathfinder import (
     bfs_path,
     bfs_traverse,
     dfs_traverse,
-    find_all_paths,
     has_cycle,
 )
 from src.core.enums import GraphType
